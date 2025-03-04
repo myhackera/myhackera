@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myhackera&label=Profile%20views&color=0e75b6&style=flat" alt="myhackera" /> </p>
 
-- 💬 Ask me about **Data Structure and Algorithms**
+- 💬 Ask me about **Software Testing and AI trends & technologies**
 
-- 📫 How to reach me **shivanshushukla1111@gmail.com**
+- 📫 How to reach me **shivanshujobportal@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
