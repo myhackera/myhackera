@@ -2,7 +2,7 @@
   <img width="800" height="400" src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80">
 </p>
 <h1 align="center">Hi 👋, I'm shivanshu</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate SDET from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myhackera&label=Profile%20views&color=0e75b6&style=flat" alt="myhackera" /> </p>
 
